@@ -37,7 +37,7 @@ const teja = {
 | Project | What I Built | Impact | Repo |
 |---------|--------------|--------|------|
 | **HeinOnline** | 7-stage agentic pipeline — OCR, Vision LLMs, CrossRef APIs, multi-source fusion | **90.81%** accuracy on **28,167+** legal documents; **90%** less manual entry | [Hein_Pipeline](https://github.com/Teja3002/Hein_Pipeline) |
-| **[Kavacham AI](https://kavacham.live/)** | Real-time emergency response — LiveKit, multilingual STT, LLM summarization | MVP **30%** faster; deployed for Indian Police Departments | [kavacham](https://github.com/techsrishti/kavacham) |
+| **[Kavacham AI]** | Real-time emergency response — LiveKit, multilingual STT, LLM summarization | MVP **30%** faster; deployed for Indian Police Departments | [kavacham](https://github.com/techsrishti/kavacham) |
 | **ReviseTax** | Full-stack tax CRM with RAG chatbot, OAuth, AWS S3, Socket.IO | **1,000+** users; MVP in **2 weeks**; **40–60%** less coordination overhead | [revisetax](https://github.com/techsrishti/revisetax) |
 | **Publik AI** | AI model marketplace SaaS — JWT auth, RBAC, REST APIs | MVP launched; **30%** delivery velocity improvement | [publikai-mvp](https://github.com/techsrishti/publikai-mvp) |
 | **UB Libraries** | Python ETL + batch alt-text pipeline for Omeka archives | **50,000+** images; workflow efficiency **1% → 95%** | [omeka_image_remediator](https://github.com/ublibraries/omeka_image_remediator) |
